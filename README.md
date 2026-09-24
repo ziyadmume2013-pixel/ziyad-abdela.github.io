@@ -24,8 +24,3 @@ By bridging the gap between clinical public health workflows and full-stack soft
 ├── ziyad-abdela-certifications-directory.pdf # Comprehensive directory of 35+ global health credentials
 └── README.md                                 # Repository documentation
 
-```
-
----
-
-## 🚀 How to Deploy / Host on GitHub Pages
